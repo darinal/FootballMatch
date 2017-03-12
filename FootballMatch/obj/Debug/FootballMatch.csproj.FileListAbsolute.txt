@@ -1,0 +1,6 @@
+D:\Study\cources\qa\FootballMatch\FootballMatch\bin\Debug\FootballMatch.exe.config
+D:\Study\cources\qa\FootballMatch\FootballMatch\obj\Debug\FootballMatch.csprojResolveAssemblyReference.cache
+D:\Study\cources\qa\FootballMatch\FootballMatch\bin\Debug\FootballMatch.exe
+D:\Study\cources\qa\FootballMatch\FootballMatch\bin\Debug\FootballMatch.pdb
+D:\Study\cources\qa\FootballMatch\FootballMatch\obj\Debug\FootballMatch.exe
+D:\Study\cources\qa\FootballMatch\FootballMatch\obj\Debug\FootballMatch.pdb
